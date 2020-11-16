@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Utility classes */
+.text_uppercase{text-transform: uppercase;}
+.text_center{text-align: center;}
+.strong{font-weight: bolder;}
+/* /Utility classes */
+
+.rounded {
+    border-radius: 10px;
+    box-shadow: 0px 0px 44px -12px rgba(0, 0, 0, 0.69);
+}
